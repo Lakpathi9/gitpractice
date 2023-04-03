@@ -1,2 +1,2 @@
 This is the file for git initializaiton . . .
-check the status of git 
+check the status of git ...
